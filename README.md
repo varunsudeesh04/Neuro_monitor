@@ -13,6 +13,7 @@ MCU: ESP32
 Frequency Targets
 Tonic: 10–25 Hz
 Clonic: 1–8 Hz
+
 Core Contribution
 
 Vibration coupling study, foam material benchmarking, PVDF strip encapsulation, 0.5–20 Hz test rig characterisation.
