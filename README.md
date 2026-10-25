@@ -1,4 +1,4 @@
-Neuro Monitor
+**Neuro Monitor**
 
 Non-contact nocturnal seizure detection using PVDF piezoelectric film under the mattress with BCG signal fusion and TinyML classification.
 
